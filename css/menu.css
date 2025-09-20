@@ -69,3 +69,7 @@
       transform: rotate(180deg) !important;
       color: #64ffda !important;
    }
+
+   .menu-container {
+      display: flex;
+   }
